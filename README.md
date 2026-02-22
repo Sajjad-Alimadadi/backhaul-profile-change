@@ -28,6 +28,5 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Sajjad-Alimadadi/backhaul-pr
 
 
 
-    اگر curl ندارید:
 ```bash
 bash <(wget -qO- https://raw.githubusercontent.com/Sajjad-Alimadadi/backhaul-profile-change/main/backhaul-profile-change.sh)
