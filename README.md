@@ -23,10 +23,46 @@
 
 ## ⚡ اجرای سریع (بدون نصب)
 
+با **curl**:
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/Sajjad-Alimadadi/backhaul-profile-change/main/backhaul-profile-change.sh)
+```
 
-
+> اگر `curl` ندارید، با **wget**:
 
 ```bash
 bash <(wget -qO- https://raw.githubusercontent.com/Sajjad-Alimadadi/backhaul-profile-change/main/backhaul-profile-change.sh)
+```
+
+---
+
+## 📥 نصب دستی (اختیاری)
+
+```bash
+# کلون کردن مخزن
+git clone https://github.com/Sajjad-Alimadadi/backhaul-profile-change.git
+
+# رفتن به پوشه
+cd backhaul-profile-change
+
+# دادن دسترسی اجرا
+chmod +x backhaul-profile-change.sh
+
+# اجرا
+./backhaul-profile-change.sh
+```
+
+---
+
+## 👤 توسعه‌دهنده
+
+**Sajjad Alimadadi**  
+[![GitHub](https://img.shields.io/badge/GitHub-Sajjad--Alimadadi-black?style=flat&logo=github)](https://github.com/Sajjad-Alimadadi)
+
+---
+
+## 📜 لایسنس
+
+این پروژه تحت لایسنس **MIT** منتشر شده است.
+
+</div>
